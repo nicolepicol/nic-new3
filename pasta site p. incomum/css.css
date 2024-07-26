@@ -1,0 +1,15 @@
+.body{
+    background-color:greenyellow
+}
+.button{
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+}
+
+h2{
+
+    font-weight: lighter;
+}
